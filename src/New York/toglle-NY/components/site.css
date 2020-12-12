@@ -1,5 +1,9 @@
+
 body{
-    background: whitesmoke;
+    background-image: url("../assets/New-York-HD-3.jpg");
+    background-repeat: no-repeat;
+   /* position: absolute;
+    background-size: contain; */
 }
 #ipt[type="checkbox"]
 {
